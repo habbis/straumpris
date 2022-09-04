@@ -31,8 +31,5 @@ def main():
        print(electricity_rates_all.text)
 
 
-  
-    print (name)
-
 if __name__ == "__main__":
     main()
